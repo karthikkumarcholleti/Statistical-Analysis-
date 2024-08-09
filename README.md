@@ -1,0 +1,1 @@
+•	Performed Observational study using R language on the Distributions of Salaries of professionals depending on their performances in the world in their chosen career fields related to Data Science, who are working in several companies located across the globe.
